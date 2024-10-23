@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/find-the-sequence-of-strings-appeared-on-the-screen">3566. Find the Sequence of Strings Appeared on the Screen</a></h2><h3>Medium</h3><hr><p>You are given a string <code>target</code>.</p>
+<h2><a href="https://leetcode.com/problems/find-the-sequence-of-strings-appeared-on-the-screen">Find the Sequence of Strings Appeared on the Screen</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>You are given a string <code>target</code>.</p>
 
 <p>Alice is going to type <code>target</code> on her computer using a special keyboard that has <strong>only two</strong> keys:</p>
 
