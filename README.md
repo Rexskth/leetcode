@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Rexskth/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/Rexskth/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Rexskth/leetcode/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/Rexskth/leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Rexskth/leetcode/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/Rexskth/leetcode/tree/master/0076-minimum-window-substring) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/Rexskth/leetcode/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Rexskth/leetcode/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/Rexskth/leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Rexskth/leetcode/tree/master/0067-add-binary) |
 | [0279-perfect-squares](https://github.com/Rexskth/leetcode/tree/master/0279-perfect-squares) |
 ## Dynamic Programming
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Rexskth/leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Rexskth/leetcode/tree/master/0067-add-binary) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/Rexskth/leetcode/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 ## Linked List
