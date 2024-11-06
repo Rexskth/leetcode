@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Rexskth/leetcode/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/Rexskth/leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Rexskth/leetcode/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/Rexskth/leetcode/tree/master/0054-spiral-matrix) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rexskth/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Rexskth/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Rexskth/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Rexskth/leetcode/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/Rexskth/leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Rexskth/leetcode/tree/master/0067-add-binary) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/Rexskth/leetcode/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 ## Linked List
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Rexskth/leetcode/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/Rexskth/leetcode/tree/master/0054-spiral-matrix) |
 ## Tree
 |  |
 | ------- |
