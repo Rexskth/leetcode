@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Rexskth/leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Rexskth/leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Rexskth/leetcode/tree/master/0076-minimum-window-substring) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Rexskth/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Rexskth/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/Rexskth/leetcode/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [2427-first-letter-to-appear-twice](https://github.com/Rexskth/leetcode/tree/master/2427-first-letter-to-appear-twice) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Rexskth/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Rexskth/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Rexskth/leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Rexskth/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Rexskth/leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0560-subarray-sum-equals-k](https://github.com/Rexskth/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Rexskth/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
