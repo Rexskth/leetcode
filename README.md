@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rexskth/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0283-move-zeroes](https://github.com/Rexskth/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Rexskth/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0289-game-of-life](https://github.com/Rexskth/leetcode/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/Rexskth/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Rexskth/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Rexskth/leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Rexskth/leetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Rexskth/leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Rexskth/leetcode/tree/master/0067-add-binary) |
+| [0289-game-of-life](https://github.com/Rexskth/leetcode/tree/master/0289-game-of-life) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/Rexskth/leetcode/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 ## Linked List
 |  |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Rexskth/leetcode/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/Rexskth/leetcode/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/Rexskth/leetcode/tree/master/0079-word-search) |
+| [0289-game-of-life](https://github.com/Rexskth/leetcode/tree/master/0289-game-of-life) |
 ## Tree
 |  |
 | ------- |
