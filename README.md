@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Rexskth/leetcode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Rexskth/leetcode/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/Rexskth/leetcode/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/Rexskth/leetcode/tree/master/0079-word-search) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Rexskth/leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/Rexskth/leetcode/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Rexskth/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Rexskth/leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Rexskth/leetcode/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/Rexskth/leetcode/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/Rexskth/leetcode/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rexskth/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rexskth/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0283-move-zeroes](https://github.com/Rexskth/leetcode/tree/master/0283-move-zeroes) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Rexskth/leetcode/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/Rexskth/leetcode/tree/master/0054-spiral-matrix) |
+| [0079-word-search](https://github.com/Rexskth/leetcode/tree/master/0079-word-search) |
 ## Tree
 |  |
 | ------- |
@@ -209,4 +212,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0047-permutations-ii](https://github.com/Rexskth/leetcode/tree/master/0047-permutations-ii) |
 | [0052-n-queens-ii](https://github.com/Rexskth/leetcode/tree/master/0052-n-queens-ii) |
+| [0079-word-search](https://github.com/Rexskth/leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
