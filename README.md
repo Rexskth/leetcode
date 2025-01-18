@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Rexskth/leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Rexskth/leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Rexskth/leetcode/tree/master/0055-jump-game) |
+| [0059-spiral-matrix-ii](https://github.com/Rexskth/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/Rexskth/leetcode/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/Rexskth/leetcode/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rexskth/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Rexskth/leetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Rexskth/leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Rexskth/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/Rexskth/leetcode/tree/master/0067-add-binary) |
 | [0289-game-of-life](https://github.com/Rexskth/leetcode/tree/master/0289-game-of-life) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/Rexskth/leetcode/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Rexskth/leetcode/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/Rexskth/leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Rexskth/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0079-word-search](https://github.com/Rexskth/leetcode/tree/master/0079-word-search) |
 | [0289-game-of-life](https://github.com/Rexskth/leetcode/tree/master/0289-game-of-life) |
 ## Tree
