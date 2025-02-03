@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Rexskth/leetcode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Rexskth/leetcode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Rexskth/leetcode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/Rexskth/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Rexskth/leetcode/tree/master/0067-add-binary) |
 | [0279-perfect-squares](https://github.com/Rexskth/leetcode/tree/master/0279-perfect-squares) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Rexskth/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Rexskth/leetcode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/Rexskth/leetcode/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/Rexskth/leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0066-plus-one](https://github.com/Rexskth/leetcode/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/Rexskth/leetcode/tree/master/0068-text-justification) |
 | [0075-sort-colors](https://github.com/Rexskth/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Rexskth/leetcode/tree/master/0078-subsets) |
