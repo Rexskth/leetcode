@@ -271,4 +271,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Rexskth/leetcode/tree/master/0085-maximal-rectangle) |
+## Database
+|  |
+| ------- |
+| [0620-not-boring-movies](https://github.com/Rexskth/leetcode/tree/master/0620-not-boring-movies) |
 <!---LeetCode Topics End-->
