@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Rexskth/leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Rexskth/leetcode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/Rexskth/leetcode/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/Rexskth/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [2427-first-letter-to-appear-twice](https://github.com/Rexskth/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 ## Counting
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Rexskth/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0068-text-justification](https://github.com/Rexskth/leetcode/tree/master/0068-text-justification) |
 | [0075-sort-colors](https://github.com/Rexskth/leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Rexskth/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Rexskth/leetcode/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rexskth/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rexskth/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0047-permutations-ii](https://github.com/Rexskth/leetcode/tree/master/0047-permutations-ii) |
 | [0052-n-queens-ii](https://github.com/Rexskth/leetcode/tree/master/0052-n-queens-ii) |
+| [0078-subsets](https://github.com/Rexskth/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Rexskth/leetcode/tree/master/0079-word-search) |
 ## Design
 |  |
