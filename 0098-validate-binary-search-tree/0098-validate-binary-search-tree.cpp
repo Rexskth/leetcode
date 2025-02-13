@@ -13,12 +13,12 @@ class Solution {
 public:
     bool isValidBST(TreeNode* root) {
         
-        return isValid(root, INT_MIN, INT_MAX);
+        return isValid(root, LONG_MIN, LONG_MAX);
         
     }
 
 
-       bool isValid(TreeNode* root,int minvalue,int maxvalue){
+       bool isValid(TreeNode* root,long minvalue,long maxvalue){
 
             if(root == NULL){
                 return true;
