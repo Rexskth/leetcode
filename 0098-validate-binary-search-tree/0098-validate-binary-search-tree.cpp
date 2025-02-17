@@ -10,24 +10,24 @@
  * };
  */
 class Solution {
-public:
-    bool isValidBST(TreeNode* root) {
-        
-        return isValid(root, LONG_MIN, LONG_MAX);
-        
+   private:
+
+   bool check(TreeNode* root, long mx, long mn){
+    if(root == nullptr){
+        return true;
+    }
+
+    if(root->val >= mx || root->val <= mn){
+        return false;
     }
 
 
-       bool isValid(TreeNode* root,long minvalue,long maxvalue){
+    return check(root->left, root->val, mn) && 
+           check(root->right, mx, root->val);
 
-            if(root == NULL){
-                return true;
-            }
-
-            if(root->val <= minvalue || root->val >= maxvalue){
-                return false;
-            }
-
-            return isValid(root->left, minvalue, root->val) && isValid(root->right, root->val, maxvalue);
-        }
+   }
+public:
+    bool isValidBST(TreeNode* root) {
+        return check(root, LONG_MAX, LONG_MIN);
+    }
 };
