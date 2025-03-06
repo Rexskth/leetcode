@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Rexskth/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/Rexskth/leetcode/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [2427-first-letter-to-appear-twice](https://github.com/Rexskth/leetcode/tree/master/2427-first-letter-to-appear-twice) |
+| [3227-find-missing-and-repeated-values](https://github.com/Rexskth/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Rexskth/leetcode/tree/master/0069-sqrtx) |
 | [0279-perfect-squares](https://github.com/Rexskth/leetcode/tree/master/0279-perfect-squares) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Rexskth/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [3227-find-missing-and-repeated-values](https://github.com/Rexskth/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Rexskth/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Rexskth/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1622-max-value-of-equation](https://github.com/Rexskth/leetcode/tree/master/1622-max-value-of-equation) |
+| [3227-find-missing-and-repeated-values](https://github.com/Rexskth/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -246,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Rexskth/leetcode/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/Rexskth/leetcode/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/Rexskth/leetcode/tree/master/0289-game-of-life) |
+| [3227-find-missing-and-repeated-values](https://github.com/Rexskth/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Tree
 |  |
 | ------- |
