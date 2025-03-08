@@ -1,38 +1,33 @@
 class Solution {
+private:
+    int expandAroundCenter(string &s, int left, int right) {
+        while (left >= 0 && right < s.size() && s[left] == s[right]) {
+            left--;
+            right++;
+        }
+        return right - left - 1; // Length of the palindrome
+    }
+
 public:
-    string longestPalindrome(string s) {
-        
+    string longestPalindrome(string &s) {
         int n = s.size();
-        if(n == 0) return s;
-        int ans = 1;
-        int start = 0;
+        if (n == 0) return "";
 
-        for(int i =0;i<n;i++){
-            int l = i, r=i;
-            while(l>=0 && r<n && s[l] == s[r]){
-                l--;
-                r++;
+        int startIdx = 0, maxLen = 1;
 
-            }
-            if(ans < r-l-1){
-                start = l+1;
-                ans = r-l-1;
+        for (int i = 0; i < n; i++) {
+            // Odd-length palindromes (center at i)
+            int len1 = expandAroundCenter(s, i, i);
+            // Even-length palindromes (center between i and i+1)
+            int len2 = expandAroundCenter(s, i, i + 1);
+
+            int len = max(len1, len2);
+            if (len > maxLen) {
+                maxLen = len;
+                startIdx = i - (len - 1) / 2;
             }
         }
 
-          for(int i =0;i<n-1;i++){
-            int l = i, r=i+1;
-            while(l>=0 && r<n && s[l] == s[r]){
-                l--;
-                r++;
-
-            }
-
-            if(ans < r-l-1){
-                start = l+1;
-                ans = r-l-1;
-            }
-       }
-           return s.substr(start,ans);
+        return s.substr(startIdx, maxLen);
     }
 };
