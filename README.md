@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/Rexskth/leetcode/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Rexskth/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2427-first-letter-to-appear-twice](https://github.com/Rexskth/leetcode/tree/master/2427-first-letter-to-appear-twice) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Rexskth/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/Rexskth/leetcode/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 ## Sliding Window
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Rexskth/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Rexskth/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1622-max-value-of-equation](https://github.com/Rexskth/leetcode/tree/master/1622-max-value-of-equation) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Rexskth/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Hash Table
 |  |
 | ------- |
