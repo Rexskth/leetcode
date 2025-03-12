@@ -9,10 +9,7 @@ public:
 
         while(r < n){
          mpp[s[r]]++;
-
-
-         while(mpp[s[r]] > 1){ // means now you have to shrink the window
-                      
+         while(mpp[s[r]] > 1){ 
                       mpp[s[l]]--;
                       l++;
          }  
