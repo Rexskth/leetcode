@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Rexskth/leetcode/tree/master/0069-sqrtx) |
 | [0279-perfect-squares](https://github.com/Rexskth/leetcode/tree/master/0279-perfect-squares) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Rexskth/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [1013-fibonacci-number](https://github.com/Rexskth/leetcode/tree/master/1013-fibonacci-number) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Rexskth/leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [3227-find-missing-and-repeated-values](https://github.com/Rexskth/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Dynamic Programming
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rexskth/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0279-perfect-squares](https://github.com/Rexskth/leetcode/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/Rexskth/leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [1013-fibonacci-number](https://github.com/Rexskth/leetcode/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/Rexskth/leetcode/tree/master/1250-longest-common-subsequence) |
 ## Breadth-First Search
 |  |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/Rexskth/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0044-wildcard-matching](https://github.com/Rexskth/leetcode/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/Rexskth/leetcode/tree/master/0050-powx-n) |
+| [1013-fibonacci-number](https://github.com/Rexskth/leetcode/tree/master/1013-fibonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -346,4 +349,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/Rexskth/leetcode/tree/master/2610-closest-prime-numbers-in-range) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Rexskth/leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
