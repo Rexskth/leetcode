@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Rexskth/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/Rexskth/leetcode/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Rexskth/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2308-divide-array-into-equal-pairs](https://github.com/Rexskth/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2427-first-letter-to-appear-twice](https://github.com/Rexskth/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [3227-find-missing-and-repeated-values](https://github.com/Rexskth/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Rexskth/leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -72,11 +73,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Rexskth/leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Rexskth/leetcode/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/Rexskth/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [2308-divide-array-into-equal-pairs](https://github.com/Rexskth/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2427-first-letter-to-appear-twice](https://github.com/Rexskth/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 ## Counting
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Rexskth/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [2308-divide-array-into-equal-pairs](https://github.com/Rexskth/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2427-first-letter-to-appear-twice](https://github.com/Rexskth/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Rexskth/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Math
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Rexskth/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Rexskth/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1622-max-value-of-equation](https://github.com/Rexskth/leetcode/tree/master/1622-max-value-of-equation) |
+| [2308-divide-array-into-equal-pairs](https://github.com/Rexskth/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Rexskth/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Rexskth/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/Rexskth/leetcode/tree/master/2690-house-robber-iv) |
