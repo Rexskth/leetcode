@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1622-max-value-of-equation](https://github.com/Rexskth/leetcode/tree/master/1622-max-value-of-equation) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Rexskth/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/Rexskth/leetcode/tree/master/2478-longest-nice-subarray) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Rexskth/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Rexskth/leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Hash Table
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/Rexskth/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2427-first-letter-to-appear-twice](https://github.com/Rexskth/leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2478-longest-nice-subarray](https://github.com/Rexskth/leetcode/tree/master/2478-longest-nice-subarray) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Rexskth/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Counting
 |  |
 | ------- |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2665-minimum-time-to-repair-cars](https://github.com/Rexskth/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/Rexskth/leetcode/tree/master/2690-house-robber-iv) |
 | [3227-find-missing-and-repeated-values](https://github.com/Rexskth/leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Rexskth/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Rexskth/leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Two Pointers
 |  |
@@ -267,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Rexskth/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Rexskth/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Rexskth/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Rexskth/leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Greedy
 |  |
@@ -331,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Rexskth/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1622-max-value-of-equation](https://github.com/Rexskth/leetcode/tree/master/1622-max-value-of-equation) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Rexskth/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Monotonic Queue
 |  |
 | ------- |
