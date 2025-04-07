@@ -5,7 +5,8 @@ private:
             left--;
             right++;
         }
-        return right - left - 1; // Length of the palindrome
+        return right - left - 1; 
+          
     }
 
 public:
