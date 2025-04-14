@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Rexskth/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Rexskth/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1622-max-value-of-equation](https://github.com/Rexskth/leetcode/tree/master/1622-max-value-of-equation) |
+| [1656-count-good-triplets](https://github.com/Rexskth/leetcode/tree/master/1656-count-good-triplets) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Rexskth/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Rexskth/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/Rexskth/leetcode/tree/master/2478-longest-nice-subarray) |
@@ -393,4 +394,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Rexskth/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+## Enumeration
+|  |
+| ------- |
+| [1656-count-good-triplets](https://github.com/Rexskth/leetcode/tree/master/1656-count-good-triplets) |
 <!---LeetCode Topics End-->
