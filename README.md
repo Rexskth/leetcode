@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/Rexskth/leetcode/tree/master/0093-restore-ip-addresses) |
 | [0387-first-unique-character-in-a-string](https://github.com/Rexskth/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Rexskth/leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0868-push-dominoes](https://github.com/Rexskth/leetcode/tree/master/0868-push-dominoes) |
 | [1250-longest-common-subsequence](https://github.com/Rexskth/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/Rexskth/leetcode/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Rexskth/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Rexskth/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0279-perfect-squares](https://github.com/Rexskth/leetcode/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/Rexskth/leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0868-push-dominoes](https://github.com/Rexskth/leetcode/tree/master/0868-push-dominoes) |
 | [1013-fibonacci-number](https://github.com/Rexskth/leetcode/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/Rexskth/leetcode/tree/master/1250-longest-common-subsequence) |
 ## Breadth-First Search
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Rexskth/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Rexskth/leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Rexskth/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0868-push-dominoes](https://github.com/Rexskth/leetcode/tree/master/0868-push-dominoes) |
 ## Sorting
 |  |
 | ------- |
