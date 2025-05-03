@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/Rexskth/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Rexskth/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/Rexskth/leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/Rexskth/leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1331-path-with-maximum-gold](https://github.com/Rexskth/leetcode/tree/master/1331-path-with-maximum-gold) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Rexskth/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Rexskth/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Rexskth/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Rexskth/leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rexskth/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/Rexskth/leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Rexskth/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Matrix
 |  |
