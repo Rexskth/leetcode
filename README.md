@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Rexskth/leetcode/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Rexskth/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/Rexskth/leetcode/tree/master/0200-number-of-islands) |
 | [0279-perfect-squares](https://github.com/Rexskth/leetcode/tree/master/0279-perfect-squares) |
 ## Recursion
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Rexskth/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Rexskth/leetcode/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Rexskth/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Rexskth/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Rexskth/leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Rexskth/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Rexskth/leetcode/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Rexskth/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Rexskth/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0200-number-of-islands](https://github.com/Rexskth/leetcode/tree/master/0200-number-of-islands) |
 | [0543-diameter-of-binary-tree](https://github.com/Rexskth/leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -371,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Rexskth/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Rexskth/leetcode/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Rexskth/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Rexskth/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Rexskth/leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Backtracking
