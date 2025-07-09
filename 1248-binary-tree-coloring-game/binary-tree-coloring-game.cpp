@@ -20,33 +20,26 @@ public:
     bool btreeGameWinningMove(TreeNode* root, int n, int x) {
         if (!root) return false;
 
-        TreeNode* target = nullptr;
-
-        // Level Order Traversal to find node x
         queue<TreeNode*> q;
         q.push(root);
 
         while (!q.empty()) {
             TreeNode* curr = q.front(); q.pop();
 
+            // ✅ When we find node x
             if (curr->val == x) {
-                target = curr;
-                break;
+                int leftCount = count(curr->left);
+                int rightCount = count(curr->right);
+                int parentCount = n - (1 + leftCount + rightCount);
+
+                int maxPart = max({leftCount, rightCount, parentCount});
+                return maxPart > n / 2;
             }
 
             if (curr->left) q.push(curr->left);
             if (curr->right) q.push(curr->right);
         }
 
-        if (!target) return false; // x not found
-
-        // Now count left and right subtrees of x
-        int leftCount = count(target->left);
-        int rightCount = count(target->right);
-        int parentCount = n - (1 + leftCount + rightCount);
-
-        int maxPart = max({leftCount, rightCount, parentCount});
-
-        return maxPart > n / 2;
+        return false; // in case x is not found
     }
 };
