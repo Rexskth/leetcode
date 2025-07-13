@@ -9,7 +9,7 @@ private:
           
     }
 
-public:
+public: 
     string longestPalindrome(string &s) {
         int n = s.size();
         if (n == 0) return "";
