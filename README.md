@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Rexskth/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Rexskth/leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Rexskth/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0394-decode-string](https://github.com/Rexskth/leetcode/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rexskth/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Rexskth/leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0812-rotate-string](https://github.com/Rexskth/leetcode/tree/master/0812-rotate-string) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/Rexskth/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/Rexskth/leetcode/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/Rexskth/leetcode/tree/master/0050-powx-n) |
+| [0394-decode-string](https://github.com/Rexskth/leetcode/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/Rexskth/leetcode/tree/master/1013-fibonacci-number) |
 ## Array
 |  |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Rexskth/leetcode/tree/master/0071-simplify-path) |
 | [0085-maximal-rectangle](https://github.com/Rexskth/leetcode/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Rexskth/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0394-decode-string](https://github.com/Rexskth/leetcode/tree/master/0394-decode-string) |
 ## String Matching
 |  |
 | ------- |
