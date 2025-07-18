@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Rexskth/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1331-path-with-maximum-gold](https://github.com/Rexskth/leetcode/tree/master/1331-path-with-maximum-gold) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Rexskth/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Rexskth/leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Rexskth/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Rexskth/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Rexskth/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/Rexskth/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/Rexskth/leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Rexskth/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Rexskth/leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Rexskth/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Rexskth/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Rexskth/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
