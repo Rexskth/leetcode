@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Rexskth/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0279-perfect-squares](https://github.com/Rexskth/leetcode/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/Rexskth/leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/Rexskth/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0740-delete-and-earn](https://github.com/Rexskth/leetcode/tree/master/0740-delete-and-earn) |
 | [0806-domino-and-tromino-tiling](https://github.com/Rexskth/leetcode/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/Rexskth/leetcode/tree/master/0868-push-dominoes) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/Rexskth/leetcode/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/Rexskth/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Rexskth/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0416-partition-equal-subset-sum](https://github.com/Rexskth/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Rexskth/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Rexskth/leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Rexskth/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
