@@ -461,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rexskth/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Rexskth/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Rexskth/leetcode/tree/master/0112-path-sum) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Rexskth/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Rexskth/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Rexskth/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [1248-binary-tree-coloring-game](https://github.com/Rexskth/leetcode/tree/master/1248-binary-tree-coloring-game) |
@@ -474,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Rexskth/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Rexskth/leetcode/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/Rexskth/leetcode/tree/master/0200-number-of-islands) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Rexskth/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Rexskth/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [1248-binary-tree-coloring-game](https://github.com/Rexskth/leetcode/tree/master/1248-binary-tree-coloring-game) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Rexskth/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -488,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rexskth/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Rexskth/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Rexskth/leetcode/tree/master/0112-path-sum) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Rexskth/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Rexskth/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Rexskth/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [1248-binary-tree-coloring-game](https://github.com/Rexskth/leetcode/tree/master/1248-binary-tree-coloring-game) |
@@ -548,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Rexskth/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Rexskth/leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Rexskth/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Rexskth/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 ## Number Theory
 |  |
