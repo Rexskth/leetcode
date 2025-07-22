@@ -1,13 +1,15 @@
 class Solution {
 public:
     int numTrees(int n) {
-        if (n <= 1) return 1;
+        vector<int> dp(n + 1, 0);
+        dp[0] = dp[1] = 1;
 
-        int total = 0;
-        for (int i = 1; i <= n; i++) {
-            // Recursive formula: left * right
-            total += numTrees(i - 1) * numTrees(n - i);
+        for (int nodes = 2; nodes <= n; nodes++) {
+            for (int root = 1; root <= nodes; root++) {
+                dp[nodes] += dp[root - 1] * dp[nodes - root];
+            }
         }
-        return total;
+
+        return dp[n];
     }
 };
