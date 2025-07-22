@@ -462,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Rexskth/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Rexskth/leetcode/tree/master/0112-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Rexskth/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/Rexskth/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [1248-binary-tree-coloring-game](https://github.com/Rexskth/leetcode/tree/master/1248-binary-tree-coloring-game) |
 ## Depth-First Search
 |  |
@@ -488,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Rexskth/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Rexskth/leetcode/tree/master/0112-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Rexskth/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/Rexskth/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [1248-binary-tree-coloring-game](https://github.com/Rexskth/leetcode/tree/master/1248-binary-tree-coloring-game) |
 ## Backtracking
 |  |
@@ -546,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Rexskth/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Rexskth/leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/Rexskth/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 ## Number Theory
 |  |
 | ------- |
